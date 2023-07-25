@@ -53,6 +53,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormCongNo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCongNo.designer.cs">
+      <DependentUpon>FormCongNo.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormTTHS.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +72,9 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>QLHS.dbml</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="FormCongNo.resx">
+      <DependentUpon>FormCongNo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormTTHS.resx">
       <DependentUpon>FormTTHS.cs</DependentUpon>
     </EmbeddedResource>
