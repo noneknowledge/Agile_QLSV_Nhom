@@ -30,11 +30,21 @@ namespace lab7___ADO.NET
         }
         int currentPage = 0;
         int takeSV = 7;
+        string masvTim = null;
         private void fillDataGridView(int page = 0)
         {
             var dsSV = db.SINHVIENs.Where(x => x.MALOP.ToString() == 
             cboLop.SelectedValue.ToString()).Skip(page*takeSV).Take(takeSV);
-            dataGridView1.DataSource = dsSV.Select(x => new { x.MASV, x.HOSV,x.TENSV ,  x.MALOP, x.PHAI, x.DIACHI,x.CONGNO, x.LHDT });
+            if (masvTim!= null)
+            {
+                dataGridView1.DataSource = dsSV.Select(x => new { x.MASV, x.HOSV, x.TENSV, x.MALOP, x.PHAI, x.DIACHI, x.CONGNO, x.LHDT }).Where(a=>a.MASV == masvTim);
+            }
+            else
+            {
+                dataGridView1.DataSource = dsSV.Select(x => new { x.MASV, x.HOSV, x.TENSV, x.MALOP, x.PHAI, x.DIACHI, x.CONGNO, x.LHDT });
+            }
+            
+            
         }
 
         private void cboLop_SelectedIndexChanged(object sender, EventArgs e)
@@ -163,6 +173,23 @@ namespace lab7___ADO.NET
             }
         }
 
-        
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (txtTim.Text.Length > 0)
+            {
+                currentPage = 0;
+                masvTim = txtTim.Text.ToString();
+                dataGridView1.DataSource = null;
+                fillDataGridView(currentPage);
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            masvTim = null;
+            currentPage= 0;
+            dataGridView1.DataSource = null;
+            fillDataGridView(currentPage);
+        }
     }
 }

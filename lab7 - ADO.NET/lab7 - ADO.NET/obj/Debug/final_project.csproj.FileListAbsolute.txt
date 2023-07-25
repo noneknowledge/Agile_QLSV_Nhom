@@ -134,3 +134,28 @@ D:\Desktop\testcode\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\final_project.csproj
 D:\Desktop\testcode\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\final_project.csproj.CopyComplete
 D:\Desktop\testcode\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7 - ADO.NET.exe
 D:\Desktop\testcode\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7 - ADO.NET.pdb
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\bin\Debug\lab7 - ADO.NET.exe.config
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\bin\Debug\lab7 - ADO.NET.exe
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\bin\Debug\lab7 - ADO.NET.pdb
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\bin\Debug\System.Data.SqlClient.dll
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\bin\Debug\System.Data.SqlClient.xml
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\final_project.csproj.AssemblyReference.cache
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\final_project.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.Form1.resources
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.FormCongNo.resources
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.FormContainer.resources
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.FormDangKy.resources
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.FormDiemSv.resources
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.FormDKHP.resources
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.FormHome.resources
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.FormLogin.resources
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.FormMoLHP.resources
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.FormNhapDiem.resources
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.FormThongKe.resources
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.FormTTHS.resources
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.Properties.Resources.resources
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\final_project.csproj.GenerateResource.cache
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\final_project.csproj.CoreCompileInputs.cache
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\final_project.csproj.CopyComplete
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7 - ADO.NET.exe
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7 - ADO.NET.pdb

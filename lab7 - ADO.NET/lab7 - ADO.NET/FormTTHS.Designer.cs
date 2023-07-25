@@ -50,6 +50,10 @@
             this.cboPhai = new System.Windows.Forms.ComboBox();
             this.txtCongNo = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
+            this.txtTim = new System.Windows.Forms.TextBox();
+            this.label9 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -113,7 +117,7 @@
             // 
             this.dataGridView1.CausesValidation = false;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(12, 240);
+            this.dataGridView1.Location = new System.Drawing.Point(13, 297);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(536, 192);
             this.dataGridView1.TabIndex = 6;
@@ -237,7 +241,7 @@
             // btnTruoc
             // 
             this.btnTruoc.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnTruoc.Location = new System.Drawing.Point(140, 439);
+            this.btnTruoc.Location = new System.Drawing.Point(145, 512);
             this.btnTruoc.Name = "btnTruoc";
             this.btnTruoc.Size = new System.Drawing.Size(99, 40);
             this.btnTruoc.TabIndex = 18;
@@ -248,7 +252,7 @@
             // btnSau
             // 
             this.btnSau.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSau.Location = new System.Drawing.Point(284, 439);
+            this.btnSau.Location = new System.Drawing.Point(289, 512);
             this.btnSau.Name = "btnSau";
             this.btnSau.Size = new System.Drawing.Size(97, 40);
             this.btnSau.TabIndex = 19;
@@ -288,11 +292,57 @@
             this.label8.TabIndex = 21;
             this.label8.Text = "Công nợ";
             // 
+            // txtTim
+            // 
+            this.txtTim.CausesValidation = false;
+            this.txtTim.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtTim.Location = new System.Drawing.Point(111, 244);
+            this.txtTim.Name = "txtTim";
+            this.txtTim.Size = new System.Drawing.Size(93, 26);
+            this.txtTim.TabIndex = 23;
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.CausesValidation = false;
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.Location = new System.Drawing.Point(24, 247);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(55, 20);
+            this.label9.TabIndex = 24;
+            this.label9.Text = "MSSV";
+            // 
+            // button1
+            // 
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.button1.Location = new System.Drawing.Point(236, 240);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(103, 34);
+            this.button1.TabIndex = 3;
+            this.button1.Text = "Tìm";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // button2
+            // 
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.button2.Location = new System.Drawing.Point(378, 238);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(103, 38);
+            this.button2.TabIndex = 3;
+            this.button2.Text = "Reset";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // FormTTHS
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(560, 502);
+            this.ClientSize = new System.Drawing.Size(561, 564);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.label9);
+            this.Controls.Add(this.txtTim);
             this.Controls.Add(this.txtCongNo);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.cboPhai);
@@ -346,5 +396,9 @@
         private System.Windows.Forms.ComboBox cboPhai;
         private System.Windows.Forms.TextBox txtCongNo;
         private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.TextBox txtTim;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
     }
 }
