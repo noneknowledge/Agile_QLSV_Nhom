@@ -171,4 +171,4 @@
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Button btnHide;
     }
-}// Hoàn thành form đăng nhập
+}// Hoàn thành form đăng nhập và form đăng xuất
