@@ -42,7 +42,7 @@ namespace lab7___ADO.NET
             currentPage= 0;
             fillDataGridView();
         }
-
+        //Hoàn thành kiểm thử trang thông tin học sinh: không có lỗi
         private void btnThem_Click(object sender, EventArgs e)
         {
             int congNo = 0;
