@@ -110,6 +110,7 @@ namespace lab7___ADO.NET
             }
         }
 
+        //Đã kiểm thử chức năng đăng xuất: không có lỗi
         private void đăngXuấtToolStripMenuItem_Click(object sender, EventArgs e)
         {
             LoginInfo = null;
