@@ -401,4 +401,4 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
     }
-}
+}//Hoàn thành tạo form cập nhật thông tin sinh viên
