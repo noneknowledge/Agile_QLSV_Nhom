@@ -152,4 +152,4 @@ namespace lab7___ADO.NET
 
         
     }
-}// Hoàn thành code form mở lớp học phần
+}// Hoàn thành code form mở và đóng lớp học phần
