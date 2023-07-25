@@ -266,4 +266,4 @@
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label lblThongBao;
     }
-}
+}//Hoàn thành tạo form đăng ký học phần (sinh viên)
