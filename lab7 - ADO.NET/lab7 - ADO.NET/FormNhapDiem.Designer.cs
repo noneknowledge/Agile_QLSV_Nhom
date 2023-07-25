@@ -476,4 +476,4 @@
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label13;
     }
-}
+}//Hoàn thành tạo form cập nhập điểm sinh viên
