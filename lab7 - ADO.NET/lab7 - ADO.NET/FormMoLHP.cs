@@ -60,7 +60,7 @@ namespace lab7___ADO.NET
 
 
         }
-        //Hoàn thành kiểm thử trang đăng ký học phần: không có lỗi
+        //Hoàn thành kiểm thử trang mở đăng ký học phần: không có lỗi
         //Hoàn thành kiểm thử trang đóng lớp học phần: không có lỗi
         private void btnMolop_Click(object sender, EventArgs e)
         {
