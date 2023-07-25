@@ -1,0 +1,19 @@
+C:\Users\Asus\Desktop\VSC_CODE\lab7 - ADO.NET\lab7 - ADO.NET\bin\Debug\lab7 - ADO.NET.exe.config
+C:\Users\Asus\Desktop\VSC_CODE\lab7 - ADO.NET\lab7 - ADO.NET\bin\Debug\lab7 - ADO.NET.exe
+C:\Users\Asus\Desktop\VSC_CODE\lab7 - ADO.NET\lab7 - ADO.NET\bin\Debug\lab7 - ADO.NET.pdb
+C:\Users\Asus\Desktop\VSC_CODE\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7 - ADO.NET.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\VSC_CODE\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7 - ADO.NET.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\VSC_CODE\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.Form1.resources
+C:\Users\Asus\Desktop\VSC_CODE\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.FormLogin.resources
+C:\Users\Asus\Desktop\VSC_CODE\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.Properties.Resources.resources
+C:\Users\Asus\Desktop\VSC_CODE\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7 - ADO.NET.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\VSC_CODE\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7 - ADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\VSC_CODE\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7 - ADO.NET.exe
+C:\Users\Asus\Desktop\VSC_CODE\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7 - ADO.NET.pdb
+C:\Users\Asus\Desktop\VSC_CODE\lab7 - ADO.NET\lab7 - ADO.NET\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\VSC_CODE\lab7 - ADO.NET\lab7 - ADO.NET\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Asus\Desktop\VSC_CODE\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7 - ADO.NET.csproj.CopyComplete
+C:\Users\Asus\Desktop\VSC_CODE\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.FormDSLop.resources
+C:\Users\Asus\Desktop\VSC_CODE\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.FormTTHS.resources
+C:\Users\Asus\Desktop\VSC_CODE\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.FormHome.resources
+C:\Users\Asus\Desktop\VSC_CODE\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.FormContainer.resources
