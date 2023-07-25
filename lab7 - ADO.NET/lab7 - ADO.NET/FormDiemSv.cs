@@ -137,7 +137,7 @@ namespace lab7___ADO.NET
             }
             else return null;
         }
-
+        //Hoàn thành kiểm thử trang điểm sinh viên: không có lỗi
         private void FormDiemSv_Load(object sender, EventArgs e)
         {
             cboHocKy.SelectedIndex = 0;
