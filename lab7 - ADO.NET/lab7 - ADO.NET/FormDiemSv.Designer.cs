@@ -242,4 +242,4 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
     }
-}
+}//Hoàn thành tạo form xem điểm sinh viên (sinh viên)
