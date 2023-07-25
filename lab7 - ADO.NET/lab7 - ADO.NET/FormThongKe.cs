@@ -147,6 +147,7 @@ namespace lab7___ADO.NET
 
 
         }
+        //Hoàn thành kiểm thử chức năng thống kê: không có lỗi
         private void FormThongKe_Load(object sender, EventArgs e)
         {
 
