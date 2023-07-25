@@ -21,7 +21,7 @@ namespace lab7___ADO.NET
         }
         
         QLHSDataContext db = new QLHSDataContext();
-
+        //Hoàn thành code trang công nợ
         private void FormCongNo_Load(object sender, EventArgs e)
         {
             var dkhp = db.DKHPs.Where(a => a.MASV == masv).Select(a => new {a.MALHP, a.HOCPHI, a.TTRANGHP });
