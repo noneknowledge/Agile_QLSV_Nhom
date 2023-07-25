@@ -60,7 +60,7 @@ namespace lab7___ADO.NET
 
 
         }
-
+        //Hoàn thành kiểm thử trang đăng ký học phần
         private void btnMolop_Click(object sender, EventArgs e)
         {
             if (txtHocPhan.Text != null)
