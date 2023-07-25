@@ -41,7 +41,7 @@ namespace lab7___ADO.NET
 
 
         }
-
+        //Đã kiểm thử chức năng đăng nhập
         private void button1_Click(object sender, EventArgs e)
         {
             if (txtPassWord.Text != null && txtUserName.Text != null)
