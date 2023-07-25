@@ -225,5 +225,10 @@ namespace lab7___ADO.NET
             hocky = cboHocKy.SelectedIndex.ToString();
             fillDataGridView();
         }
+        //Hoàn thành chức năng tìm kiếm sinh viên cụ thể
+        private void txtTim_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

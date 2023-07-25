@@ -112,6 +112,7 @@
             this.txtTim.Name = "txtTim";
             this.txtTim.Size = new System.Drawing.Size(100, 23);
             this.txtTim.TabIndex = 4;
+            this.txtTim.TextChanged += new System.EventHandler(this.txtTim_TextChanged);
             // 
             // cboTim
             // 
