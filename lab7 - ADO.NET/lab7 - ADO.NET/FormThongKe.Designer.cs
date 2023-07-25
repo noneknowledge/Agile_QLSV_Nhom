@@ -290,4 +290,4 @@
         private System.Windows.Forms.DataVisualization.Charting.Chart chart7;
         private System.Windows.Forms.DataVisualization.Charting.Chart chart8;
     }
-}
+}// Hoàn thành tạo form thống kê sinh viên
