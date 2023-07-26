@@ -822,6 +822,7 @@ INSERT [dbo].[HOCPHAN] ([MAHP], [TENHP], [SOTC], [BATBUOC], [GHICHU], [MABM]) VA
 INSERT [dbo].[HOCPHAN] ([MAHP], [TENHP], [SOTC], [BATBUOC], [GHICHU], [MABM]) VALUES (N'1001076277', N'Khoa Luan Tot Nghiep', 7, N'CO', NULL, N'10102')
 INSERT [dbo].[HOCPHAN] ([MAHP], [TENHP], [SOTC], [BATBUOC], [GHICHU], [MABM]) VALUES (N'1011074724', N'Cong Nghe Phan Mem', 3, N'CO', NULL, N'10101')
 GO
+/*Hoàn thành database học phần*/
 INSERT [dbo].[KHOA] ([MAKHOA], [TENKHOA], [SDTKHOA]) VALUES (N'10001', N'Cong Nghe Thong Tin', N'0123456789')
 INSERT [dbo].[KHOA] ([MAKHOA], [TENKHOA], [SDTKHOA]) VALUES (N'10002', N'Quan Tri Kinh Doanh', N'0124457777')
 GO
