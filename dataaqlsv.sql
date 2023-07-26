@@ -986,6 +986,7 @@ INSERT [dbo].[SINHVIEN] ([MASV], [HOSV], [TENSV], [CMND], [TUOI], [NAMSINH], [PH
 INSERT [dbo].[SINHVIEN] ([MASV], [HOSV], [TENSV], [CMND], [TUOI], [NAMSINH], [PHAI], [DIACHI], [CONGNO], [LHDT], [MALOP], [KHOAHOC]) VALUES (N'20119', N'Ho', N'Minh Thu', N'0404115947250', 20, CAST(N'2002-07-01' AS Date), N'Nu', N'15 So 1 P.Dong Hoa Q.Thu DucTPHCM', 0, N'Quoc Te', N'12004', N'2020-2023')
 INSERT [dbo].[SINHVIEN] ([MASV], [HOSV], [TENSV], [CMND], [TUOI], [NAMSINH], [PHAI], [DIACHI], [CONGNO], [LHDT], [MALOP], [KHOAHOC]) VALUES (N'20120', N'Le', N'Ngoc Chau', N'0404411547250', 20, CAST(N'2002-07-31' AS Date), N'Nu', N'89 Dao Trinh Nhat P.An Binh Q.Di An TP.Binh Duong', 17600000, N'Quoc Te', N'12004', N'2020-2023')
 GO
+/*Hoàn thành database lưu trữ thông tin  toàn bộ sinh viên*/
 SET IDENTITY_INSERT [dbo].[USERLOGIN] ON 
 
 INSERT [dbo].[USERLOGIN] ([ID], [USERNAME], [PASSWORD], [VAITRO], [MASV]) VALUES (1, N'admin', N'8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918', N'admin', NULL)
