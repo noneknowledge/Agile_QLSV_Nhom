@@ -102,7 +102,7 @@ SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
 GO
-/* Hoàn thành database đăng ký học phần */
+/* Hoàn thành database đăng ký học phần và điểm sinh viên */
 CREATE TABLE [dbo].[DKHP](
 	[MASV] [varchar](10) NOT NULL,
 	[MALHP] [varchar](10) NOT NULL,
@@ -769,7 +769,7 @@ INSERT [dbo].[DKHP] ([MASV], [MALHP], [DIEMTKY], [DIEMGK], [DIEMCK], [DIEMTBHE10
 INSERT [dbo].[DKHP] ([MASV], [MALHP], [DIEMTKY], [DIEMGK], [DIEMCK], [DIEMTBHE10], [DIEMTBHE4], [HOCPHI], [TTRANGHP], [GHICHU]) VALUES (N'20120', N'300010', 0, 0, 0, 0, 0, 4200000, N'chua thu', NULL)
 INSERT [dbo].[DKHP] ([MASV], [MALHP], [DIEMTKY], [DIEMGK], [DIEMCK], [DIEMTBHE10], [DIEMTBHE4], [HOCPHI], [TTRANGHP], [GHICHU]) VALUES (N'20120', N'300011', 0, 0, 0, 0, 0, 4200000, N'chua thu', NULL)
 GO
-/*Hoàn thành database chứa điểm sinh viên */
+
 INSERT [dbo].[HOCBONG] ([LOAIHB], [MOTAHB], [GIATRIHB], [MASV]) VALUES (N'Giam 50%', N'Thanh Tich Hoc Tap Xuat Sac', 50, N'20001')
 INSERT [dbo].[HOCBONG] ([LOAIHB], [MOTAHB], [GIATRIHB], [MASV]) VALUES (N'Giam 100%', N'Thanh Tich Hoc Tap Xuat Sac', 100, N'20002')
 INSERT [dbo].[HOCBONG] ([LOAIHB], [MOTAHB], [GIATRIHB], [MASV]) VALUES (N'Giam 50%', N'Thanh Tich Hoc Tap Xuat Sac', 50, N'20005')
