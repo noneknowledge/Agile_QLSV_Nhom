@@ -102,6 +102,7 @@ SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
 GO
+/* Hoàn thành database đăng ký học phần */
 CREATE TABLE [dbo].[DKHP](
 	[MASV] [varchar](10) NOT NULL,
 	[MALHP] [varchar](10) NOT NULL,
