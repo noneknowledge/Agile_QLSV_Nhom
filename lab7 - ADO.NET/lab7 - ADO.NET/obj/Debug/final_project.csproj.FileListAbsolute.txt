@@ -159,3 +159,4 @@ D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debu
 D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\final_project.csproj.CopyComplete
 D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7 - ADO.NET.exe
 D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7 - ADO.NET.pdb
+D:\Desktop\Sprint1_github\Agile_QLSV_Nhom\lab7 - ADO.NET\lab7 - ADO.NET\obj\Debug\lab7___ADO.NET.FormLop.resources
