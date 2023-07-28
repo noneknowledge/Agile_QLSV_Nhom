@@ -64,11 +64,26 @@ namespace lab7___ADO.NET
             {
                 congNo = 0;
             }
+
+            var maxMASV = db.SINHVIENs.Select(a => a.MASV);
+            int max = 0;
+
+            foreach (var item in maxMASV)
+            {
+                int buffer;
+                if (int.TryParse(item, out buffer))
+                {
+                    if (max < buffer) max = buffer;
+                }
+            }
+            max += 1;
+            string masv = max.ToString();
+
             try
             {
                 //Tao sv moi
                 SINHVIEN sv = new SINHVIEN();
-                sv.MASV = txtMaSv.Text;
+                sv.MASV = masv;
                 sv.HOSV = txtHosv.Text;
                 sv.TENSV = txtTensv.Text;
                 sv.DIACHI = txtDiaChi.Text;

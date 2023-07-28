@@ -139,6 +139,7 @@
             // txtMaSv
             // 
             this.txtMaSv.CausesValidation = false;
+            this.txtMaSv.Enabled = false;
             this.txtMaSv.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtMaSv.Location = new System.Drawing.Point(112, 37);
             this.txtMaSv.Name = "txtMaSv";
