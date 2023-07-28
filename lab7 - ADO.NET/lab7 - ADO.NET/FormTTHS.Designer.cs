@@ -402,4 +402,4 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
     }
-}
+}//Hoàn thành tạo form cập nhật và xem thông tin sinh viên

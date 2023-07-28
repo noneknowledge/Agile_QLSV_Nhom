@@ -151,4 +151,4 @@
         private System.Windows.Forms.Label lblTong;
         private System.Windows.Forms.Label lblNop;
     }
-}
+}//Hoàn thành form Công nợ

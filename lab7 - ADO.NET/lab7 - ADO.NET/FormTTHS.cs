@@ -64,7 +64,7 @@ namespace lab7___ADO.NET
             {
                 congNo = 0;
             }
-
+            //Tìm mã số sv max + 1 cho chức năng thêm sv
             var maxMASV = db.SINHVIENs.Select(a => a.MASV);
             int max = 0;
 
@@ -207,4 +207,4 @@ namespace lab7___ADO.NET
             fillDataGridView(currentPage);
         }
     }
-}
+}// Hoàn thành code form thông tin sinh viên

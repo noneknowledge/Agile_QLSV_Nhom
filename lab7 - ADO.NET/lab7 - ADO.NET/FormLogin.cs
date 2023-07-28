@@ -150,3 +150,4 @@ namespace lab7___ADO.NET
         }
     }
 }
+// Hoàn thành code cho form đăng nhập và form đăng xuất

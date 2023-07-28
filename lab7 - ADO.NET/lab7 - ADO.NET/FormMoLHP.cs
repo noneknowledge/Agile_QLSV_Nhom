@@ -67,7 +67,7 @@ namespace lab7___ADO.NET
             if (txtHocPhan.Text != null)
             {
                 var maxMLHP = db.LOPHPs.Select(a => a.MALHP);
-                int max = 0;
+                int max = 0; 
 
                 foreach (var item in maxMLHP)
                 {
@@ -152,4 +152,4 @@ namespace lab7___ADO.NET
 
         
     }
-}
+}// Hoàn thành code form mở và đóng lớp học phần

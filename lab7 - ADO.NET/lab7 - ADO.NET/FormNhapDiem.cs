@@ -107,6 +107,7 @@ namespace lab7___ADO.NET
         }
         
         //Hoàn thành kiểm thử trang nhập điểm sinh viên: không có lỗi
+        //Hoàn thành code trang nhập điểm sinh viên
         private void button1_Click(object sender, EventArgs e)
         {
             if (currentPage != 0)
