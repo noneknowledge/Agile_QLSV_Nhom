@@ -2560,7 +2560,7 @@ namespace lab7___ADO.NET
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_PASSWORD", DbType="VarChar(50) NOT NULL", CanBeNull=false)]
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_PASSWORD", DbType="VarChar(255) NOT NULL", CanBeNull=false)]
 		public string PASSWORD
 		{
 			get

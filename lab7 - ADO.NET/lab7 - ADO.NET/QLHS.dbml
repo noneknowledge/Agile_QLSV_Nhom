@@ -111,7 +111,7 @@
     <Type Name="USERLOGIN">
       <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
       <Column Name="USERNAME" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
-      <Column Name="PASSWORD" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PASSWORD" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
       <Column Name="VAITRO" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
       <Column Name="MASV" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
       <Association Name="SINHVIEN_USERLOGIN" Member="SINHVIEN" ThisKey="MASV" OtherKey="MASV" Type="SINHVIEN" IsForeignKey="true" />
