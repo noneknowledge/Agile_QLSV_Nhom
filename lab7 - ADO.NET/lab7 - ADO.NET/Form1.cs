@@ -68,6 +68,13 @@ namespace lab7___ADO.NET
                         if (tmp != null) return false;
                     }
                     break;
+                case 7:
+                    foreach (var f in MdiChildren)
+                    {
+                        var tmp = f as FormLop;
+                        if (tmp != null) return false;
+                    }
+                    break;
                 default: return true;
 
             }
@@ -185,6 +192,14 @@ namespace lab7___ADO.NET
             }
         }
 
-        
+        private void danhSáchLớpToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (KiemTraMoFormCon(7))
+            {
+                var f = new FormLop();
+                f.MdiParent = this;
+                f.Show();
+            }
+        }
     }
 }
