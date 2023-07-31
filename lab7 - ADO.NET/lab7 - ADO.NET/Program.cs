@@ -16,7 +16,7 @@ namespace lab7___ADO.NET
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormLop());
+            Application.Run(new Form1());
         }
     }
 }
